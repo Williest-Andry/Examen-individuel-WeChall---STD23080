@@ -12,4 +12,6 @@ Voyons les étapes de résolution ci-dessous.
 ```
 
 **Explication :**
+Cette commande va copier la solution contenue dans **solution.txt** dans un fichier présent dans le répertoire personnel nommé **level10**.
 
+- Après avoir fait cela, utiliser la commande **cd** pour revenir au répertoire personnel et voir le texte à l'intérieur du fichier **level10** avec la commande **cat** qui permet d'afficher le contenu d'un fichier.Voici la solution : `EpidermalGlance`.
