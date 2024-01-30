@@ -57,3 +57,6 @@ La solution se trouve dans le répertoire suivant :
 Ce level se fait en 2 étapes :
 - Utiliser la commande **cd** pour accéder à ce répertoire ("cd /home/level/05_privacy").
 - Utiiser la commande **cat** pour ouvrir le fichier **README.md** contenu dans le répertoire ci-dessous. Voici la solution : `OKPRIVATE`.
+- 
+## IMPORTANT :
+POUR VALIDER CE CHALLENGE (Training: Warchall - The Beginning), IL FAUT COMBINER TOUTES LES SOLUTIONS TROUVÉES EN LES SÉPARANT PAR UN VIRGURLE ET EN LES METTANT DANS L'ORDRE (bitwarrior,patience,HiddenIsConfig,RepeatingHistory,AndOfCourseIDoKnowChown,OKPRIVATE).
